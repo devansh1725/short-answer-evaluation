@@ -31,4 +31,3 @@ Dependencies:
 
 This tool is designed for educational contexts needing objective, automated short answer scoring, particularly in programming assessments[1].
 
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/82721694/1ddc94b6-fc4a-4769-ae8d-26b0a935a98b/short-answer-evaluation-minor-sem-2.ipynb
