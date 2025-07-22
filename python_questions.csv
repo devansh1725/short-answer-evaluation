@@ -1,0 +1,11 @@
+question,answer
+What is the difference between a list and a tuple in Python?,"Lists are mutable (can be changed), while tuples are immutable (cannot be changed)."
+What does the len() function do in Python?,"It returns the number of items in an object (like a list, string, etc.)."
+How do you define a function in Python?,"Using the def keyword, e.g., def my_function():"
+What is the output of print(2 ** 3)?,8 — it means 2 raised to the power of 3.
+What is a Python dictionary?,"A collection of key-value pairs, e.g., {""name"": ""Alice"", ""age"": 25}."
+What keyword is used to handle exceptions in Python?,try and except.
+What is the difference between is and == in Python?,"== compares values, is compares object identities (memory location)."
+What is list comprehension in Python?,A concise way to create lists: [x for x in range(5)].
+What is the purpose of the self keyword in class methods?,It refers to the instance of the class (used to access attributes and methods).
+How do you install an external package in Python?,Using pip install <package_name>.

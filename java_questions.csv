@@ -1,0 +1,11 @@
+question,answer
+What is the JVM in Java?,JVM (Java Virtual Machine) is an engine that executes Java bytecode. It allows Java programs to be platform-independent.
+What is the difference between == and .equals() in Java?,"== compares object references (memory addresses), while .equals() compares the actual content of objects (if overridden)."
+What is a constructor in Java?,A constructor is a special method used to initialize objects. It has the same name as the class and no return type.
+Can a Java class extend multiple classes? Why or why not?,"No, Java does not support multiple inheritance with classes to avoid ambiguity. Instead, it uses interfaces."
+What is method overloading?,Method overloading is when multiple methods in the same class have the same name but different parameter lists.
+What is the difference between ArrayList and LinkedList?,"ArrayList is better for accessing elements (index-based), while LinkedList is better for inserting/deleting elements frequently."
+What is the purpose of the final keyword in Java?,"final is used to declare constants, prevent method overriding, and inheritance of classes."
+What is the default value of a boolean variable in Java?,The default value of a boolean variable is false.
+What is an interface in Java?,"An interface is a reference type in Java, similar to a class, that can contain only abstract methods (until Java 8, after which default/static methods were added)."
+What is the use of the static keyword?,static is used for methods or variables that belong to the class rather than any instance of the class.
